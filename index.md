@@ -39,6 +39,8 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(Finished yet, the language is Chinese here)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
+> + [Notes on Very Basic Complex Hodge Theory](/2021HODGE.pdf): **(Finished yet)** This notes is about basic Complex Hodge Theory.
+
 > + **[Many Notes in SDU-Taishan colledge](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/)**
 
 ## Some notes in Seminars in Shandong University (Undergraduate)
