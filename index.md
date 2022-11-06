@@ -41,9 +41,6 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 
 > + **[Many Notes in SDU-Taishan colledge](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/)**
 
-## Notes in the Undergraduate Research and Summer School
-> + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry. [Summary](/AGRESKC.pdf).
-
 ## Some notes in Seminars in Shandong University (Undergraduate)
 > + **(2022 Spring) Seminar of Algebraic Geometry and Rigid Geometry** We used the notes form [Yichao Tian](http://www.mcm.ac.cn/people/members/202108/t20210820_658104.html) about Rigid Geometry (Actually I didn't read the rigid geometry part of this seminar). I will write a notes about some basic facts of Derived Categories in Algebraic Geometry. My notes: [Derived Categories and Algebraic Geometry](/2022RIGIDREADlxl.pdf).
 
