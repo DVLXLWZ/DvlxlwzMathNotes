@@ -38,3 +38,23 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(Finished yet, the language is Chinese here)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
 
 > + **[Many Notes in SDU-Taishan colledge](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/)**
+
+## Undergraduate Research and Summer School
+> + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
+>> My grades: (1) Complex Geometry: 100/100;
+>> 
+>> (2) Riemannian Geometry: 90/100.
+
+> + **(2020.12 – 2021.11) Undergraduate Research about Basic Algebraic Geometry:** (advisor: Yin Hongbo) We learned some basic scheme theory and cohomology and some basic complex geommetry. [Summary](/AGRESKC.pdf).
+
+## Some Seminars in Shandong University (Undergraduate)
+> + **(2022 Spring) Seminar of Algebraic Geometry and Rigid Geometry** We used the notes form [Yichao Tian](http://www.mcm.ac.cn/people/members/202108/t20210820_658104.html) about Rigid Geometry (Actually I didn't read the rigid geometry part of this seminar). I will write a notes about some basic facts of Derived Categories in Algebraic Geometry. My notes: [Derived Categories and Algebraic Geometry](/2022RIGIDREADlxl.pdf).
+
+> + **(2022 Spring) Seminar of Symplectic Geometry** We discuss the second chapters of D. Macduff and D. Salamon's Introduction to Symplectic Topology and the Chapter 1-7 in Ana Cannas da Silva's [book](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf). One of my lecture: [Moser's trick](/2022Symp1.pdf).
+
+> + **(2021 Autumn) Seminar of Algebraic Topology** We discuss the first two chapters of R. Nott and L. W. Tu's Differential Froms in Algebraic Topology. I discussed the section 5 and the half of section 11. Here is my lectures:
+>> My Lectures: (1) [Section 5](/2021ATSe1.pdf);
+>>
+>> (2) [Section 11](/2021ATSe2.pdf).
+
+> + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes: [Section6.1](/2020HASe.pdf).
