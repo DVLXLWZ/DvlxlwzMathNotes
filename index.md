@@ -5,7 +5,7 @@ Coming soon...
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/07)** We will talked about the following topics:
+> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/09)** We will talked about the following topics:
 >
 >> (1) The basic results:
 >> 
