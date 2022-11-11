@@ -5,7 +5,7 @@ Coming soon...
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/10)** We will talked about the following topics:
+> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/11)** We will talked about the following topics:
 >
 >> (1) The basic results:
 >> 
@@ -16,12 +16,14 @@ Coming soon...
 >>> (2.1) The Picard group of the moduli space of stable curves;
 >>>
 >>> (2.2) The Kodaira dimension of the moduli space of stable curves (Harris–Mumford–Eisenbud theorem);
+>>>
+>>> (2.3) Intersection theory of moduli space of curves;
 >>> 
->>> (2.3) Teichmüller construction of Deligne-Mumford compactification;
+>>> (2.4) Teichmüller construction of Deligne-Mumford compactification;
 >>> 
->>> (2.4) Cellular decomposition and cohomology of the moduli space of curves;
+>>> (2.5) Cellular decomposition and cohomology of the moduli space of curves;
 >>> 
->>> (2.5) Alterations and the moduli space of curves ([Alterations-Brian Conrad](http://virtualmath1.stanford.edu/~conrad/249BW17Page/index.html));
+>>> (2.6) Alterations and the moduli space of curves ([Alterations-Brian Conrad](http://virtualmath1.stanford.edu/~conrad/249BW17Page/index.html));
 >>> 
 >>> ......
 >>
