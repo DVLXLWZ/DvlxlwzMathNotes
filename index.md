@@ -5,7 +5,7 @@ Coming soon...
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/13)** We will talked about the following topics:
+> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/14)** We will talked about the following topics:
 >
 >> (1) The basic results:
 >> 
@@ -13,7 +13,7 @@ Coming soon...
 >> 
 >> (2) Some special topics:
 >> 
->>> (2.1) The Picard group of the moduli space of stable curves;
+>>> (2.1) Line bundles and Picard groups of the moduli space of curves, maybe including F-conjecture;
 >>>
 >>> (2.2) The Kodaira dimension of the moduli space of stable curves (Harris–Mumford–Eisenbud theorem);
 >>>
@@ -25,7 +25,7 @@ Coming soon...
 >>> 
 >>> (2.6) Alterations and the moduli space of curves ([Alterations-Brian Conrad](http://virtualmath1.stanford.edu/~conrad/249BW17Page/index.html));
 >>> 
->>> ......
+>>> ...... (see [Algebraic Curves and Surfaces I: Moduli of Curves](https://deopurkar.github.io/teaching/moduli/curvescourse.pdf))
 >>
 >> (3) Maybe some recent result...
 
