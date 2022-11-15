@@ -9,7 +9,17 @@ Coming soon...
 >
 >> (1) The basic results:
 >> 
->> We first consider the moduli stack of smooth curves and show that it is a smooth locally of finite type Deligne-Mumford stack. Then we discuss detailed properties of the nodal curves and stable curves using some nice tools (such as delta-invariant) and showed that the several stacks are all algebraic stacks locally of finite type over Z. More over we showed the moduli stack of n-pointed stable curves is a quasi-compact smooth Deligne-Mumford stack of dimension $3g−3+n$. Next we showed the stable reduction in Char=0 by using some birational geometry of surfaces and calculate a good example, this shows that the moduli stack of n-pointed stable curves is also a proper Deligne-Mumford stack (then by Keel-Mori theorem, we get it has a coarse moduli space). Then we will prove the irreducibility of the moduli stack of stable curves and projectivity of that coarse moduli space (Kollar's method).
+>>> (1.1) The basic facts of curves (basic properties of single and families of curves; the varieties associated to curves, such as Jacobian, Picard and etc.);
+>>> 
+>>> (1.2) The moduli stack of smooth curves is a smooth locally of finite type Deligne-Mumford stack;
+>>> 
+>>> (1.3) Detailed properties of the nodal curves and stable curves using some nice tools (such as delta-invariant) and detailed deformation theory of them, including Kuranishi family;
+>>> 
+>>> (1.4) The several stacks are all algebraic stacks locally of finite type over Z and the moduli stack of n-pointed stable curves is a quasi-compact smooth Deligne-Mumford stack of dimension $3g−3+n$;
+>>> 
+>>> (1.5) The stable reduction in Char=0 by using some birational geometry of surfaces. This shows that the moduli stack of n-pointed stable curves is also a proper Deligne-Mumford stack (then by Keel-Mori theorem, we get it has a coarse moduli space).
+>>> 
+>>> (1.6) The irreducibility of the moduli stack of stable curves and projectivity of that coarse moduli space (Janos Kollar's method).
 >> 
 >> (2) Some special topics:
 >> 
