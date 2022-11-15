@@ -5,7 +5,7 @@ Coming soon...
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/14)** We will talked about the following topics:
+> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/15)** We will talked about the following topics:
 >
 >> (1) The basic results:
 >> 
@@ -13,17 +13,18 @@ Coming soon...
 >> 
 >> (2) Some special topics:
 >> 
->>> (2.1) Line bundles and Picard groups of the moduli space of curves, maybe including F-conjecture;
+>>> (2.1) Line bundles and Picard groups of the moduli space of curves, maybe including F-conjecture (ACG11-XIII and ENRICO ARBARELLO AND MAURIZIO CORNALBA's papers: including [Divisors in the moduli spaces of curves](https://arxiv.org/pdf/0810.5373.pdf) and [The Picard groups of the moduli spaces of curves](https://www.sciencedirect.com/science/article/pii/0040938387900565));
 >>>
->>> (2.2) The Kodaira dimension of the moduli space of stable curves (Harris–Mumford–Eisenbud theorem);
+>>> (2.2) The Kodaira dimension of the moduli space of stable curves (Harris–Mumford–Eisenbud theorem) (We may will refer David Eisenbud and Joe Harris's papers: including [Limit linear series: Basic theory](https://link.springer.com/article/10.1007/BF01389094) and [The Kodaira dimension of the moduli space
+of curves of genus>=23](https://link.springer.com/article/10.1007/BF01388710));
 >>>
->>> (2.3) Intersection theory of moduli space of curves;
+>>> (2.3) Intersection theory of moduli space of curves (We may refer Letterio Gatto's book: [Intersection theory on moduli space of curves](https://impa.br/wp-content/uploads/2017/04/Mon_61.pdf));
 >>> 
->>> (2.4) Teichmüller construction of Deligne-Mumford compactification;
+>>> (2.4) Teichmüller construction of Deligne-Mumford compactification (We may refer John H. Hubbard and Sarah Koch's paper [An analytic construction of the Deligne-Mumford compactification of the moduli space of curves](https://arxiv.org/abs/1301.0062));
 >>> 
->>> (2.5) Cellular decomposition and cohomology of the moduli space of curves;
+>>> (2.5) Cellular decomposition and cohomology of the moduli space of curves (We may refer ACG11-XVIII,XIX]);
 >>> 
->>> (2.6) Alterations and the moduli space of curves ([Alterations-Brian Conrad](http://virtualmath1.stanford.edu/~conrad/249BW17Page/index.html));
+>>> (2.6) Alterations and the moduli space of curves (We may refer Brian Conrad's notes: [Alterations](http://virtualmath1.stanford.edu/~conrad/249BW17Page/index.html));
 >>> 
 >>> ...... (see [Algebraic Curves and Surfaces I: Moduli of Curves](https://deopurkar.github.io/teaching/moduli/curvescourse.pdf))
 >>
