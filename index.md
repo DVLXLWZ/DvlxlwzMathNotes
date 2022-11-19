@@ -5,7 +5,7 @@ Coming soon...
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/16)** We will talked about the following topics:
+> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/19)** We will talked about the following topics:
 >
 >> (1) The basic results:
 >> 
@@ -70,7 +70,6 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 >> (2) [Section 11](/2021ATSe2.pdf).
 
 > + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes: [Section6.1](/2020HASe.pdf).
-
 
 # Some links
 
