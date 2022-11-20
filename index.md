@@ -5,40 +5,7 @@ Coming soon...
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/19)** We will talked about the following topics:
->
->> (1) The basic results:
->> 
->>> (1.1) The basic facts of curves (basic properties of single and families of curves; the varieties associated to curves, such as Jacobian, Picard and etc.);
->>> 
->>> (1.2) The moduli stack of smooth curves is a smooth locally of finite type Deligne-Mumford stack;
->>> 
->>> (1.3) Detailed properties of the nodal curves and stable curves using some nice tools (such as delta-invariant) and detailed deformation theory of them, including Kuranishi family;
->>> 
->>> (1.4) The several stacks are all algebraic stacks locally of finite type over Z and the moduli stack of n-pointed stable curves is a quasi-compact smooth Deligne-Mumford stack of dimension $3g−3+n$;
->>> 
->>> (1.5) The stable reduction in Char=0 by using some birational geometry of surfaces. This shows that the moduli stack of n-pointed stable curves is also a proper Deligne-Mumford stack (then by Keel-Mori theorem, we get it has a coarse moduli space).
->>> 
->>> (1.6) The irreducibility of the moduli stack of stable curves and projectivity of that coarse moduli space (Janos Kollar's method).
->> 
->> (2) Some special topics:
->> 
->>> (2.1) Line bundles and Picard groups of the moduli space of curves, maybe including F-conjecture (ACG11-XIII and ENRICO ARBARELLO AND MAURIZIO CORNALBA's papers: including [Divisors in the moduli spaces of curves](https://arxiv.org/pdf/0810.5373.pdf) and [The Picard groups of the moduli spaces of curves](https://www.sciencedirect.com/science/article/pii/0040938387900565));
->>>
->>> (2.2) The Kodaira dimension of the moduli space of stable curves (Harris–Mumford–Eisenbud theorem) (We may will refer David Eisenbud and Joe Harris's papers: including [Limit linear series: Basic theory](https://link.springer.com/article/10.1007/BF01389094) and [The Kodaira dimension of the moduli space
-of curves of genus>=23](https://link.springer.com/article/10.1007/BF01388710));
->>>
->>> (2.3) Intersection theory of moduli space of curves (We may refer Letterio Gatto's book: [Intersection theory on moduli space of curves](https://impa.br/wp-content/uploads/2017/04/Mon_61.pdf));
->>> 
->>> (2.4) Teichmüller construction of Deligne-Mumford compactification (We may refer John H. Hubbard and Sarah Koch's paper [An analytic construction of the Deligne-Mumford compactification of the moduli space of curves](https://arxiv.org/abs/1301.0062));
->>> 
->>> (2.5) Cellular decomposition and cohomology of the moduli space of curves (We may refer ACG11-XVIII,XIX]);
->>> 
->>> (2.6) Alterations and the moduli space of curves (We may refer Brian Conrad's notes: [Alterations](http://virtualmath1.stanford.edu/~conrad/249BW17Page/index.html));
->>> 
->>> ...... (see [Algebraic Curves and Surfaces I: Moduli of Curves](https://deopurkar.github.io/teaching/moduli/curvescourse.pdf))
->>
->> (3) Maybe some recent result...
+> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2022/11/19)** Here is our reading plan: [Reading program on moduli space of curves](https://dvlxlwz.github.io/2022/11/15/Reading-program-on-moduli-space-of-curves/).
 
 > + [Notes for Algebraic Spaces and Stacks by M. Olsson](/OlssonNotes.pdf): **(Not finished yet. Update at 2022/09/13)** I take some notes and add some details about the book Algebraic Spaces and Stacks written by Prof. Martin Olsson, aiming to study some basic theory of algebraic stacks.
 
