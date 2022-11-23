@@ -27,7 +27,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + **[Many Notes in SDU-Taishan colledge](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/)**
 
 ## Some notes in Seminars in Shandong University (Undergraduate)
-> + **(2022 Spring) Seminar of Algebraic Geometry and Rigid Geometry** We used the notes form [Yichao Tian](http://www.mcm.ac.cn/people/members/202108/t20210820_658104.html) about Rigid Geometry (Actually I didn't read the rigid geometry part of this seminar). I will write a notes about some basic facts of Derived Categories in Algebraic Geometry. My notes: [Derived Categories and Algebraic Geometry](/2022RIGIDREADlxl.pdf).
+> + **(2022 Spring) Seminar of Algebraic Geometry and Rigid Geometry** We used the notes form [Yichao Tian](http://www.mcm.ac.cn/people/members/202108/t20210820_658104.html) about Rigid Geometry (Actually I didn't read the rigid geometry part of this seminar). I will write a notes about some basic facts of Derived Categories in Algebraic Geometry. My notes: [Derived Categories and Algebraic Geometry](/2022RIGIDREAD.pdf).
 
 > + **(2022 Spring) Seminar of Symplectic Geometry** We discuss the second chapters of D. Macduff and D. Salamon's Introduction to Symplectic Topology and the Chapter 1-7 in Ana Cannas da Silva's [book](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf). One of my lecture: [Moser's trick](/2022Symp1.pdf).
 
