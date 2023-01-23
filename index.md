@@ -2,8 +2,6 @@
 
 ## Some Notes About Mathematics
 
-> + [Notes on moduli space of curves](/ModuliSpaceCurvesReadingNotes.pdf): **(Not finished yet. Update at 2023/01/20)** Here is our reading program: [Reading program on moduli space of curves](https://dvlxlwz.github.io/2022/11/15/Reading-program-on-moduli-space-of-curves/).
-
 > + [Notes for Algebraic Spaces and Stacks by M. Olsson](/OlssonNotes.pdf): **(Not finished yet. Update at 2022/09/13)** I take some notes and add some details about the book Algebraic Spaces and Stacks written by Prof. Martin Olsson, aiming to study some basic theory of algebraic stacks.
 
 > + [Notes of blowing up of schemes](/BlowingUp.pdf): **(In Chinese. Not finished yet. Update at 2022/09/03)** I wrote the basic theory of blowing up of schemes including some commutative algebra (Rees algebra), blow-ups and strict transform, U-admissible blow-up and its extension and I also gave a introduction and statement of resolution singularities of char=0 by Hironaka. Finally we gave some examples.
