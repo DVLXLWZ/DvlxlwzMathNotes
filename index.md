@@ -56,4 +56,4 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 ## Some Nice Homepages of Courses
 > [Algebraic Geometry II, Summer semester 2019 in Bonn](https://staff.fnwi.uva.nl/e.l.brakkee/AGII_SS2019/);
 > [Algebraic Geometry in MIT(18-726)](https://ocw.mit.edu/courses/18-726-algebraic-geometry-spring-2009/pages/lecture-notes/);
-> [(University of Washington) Math 582C: Introduction to stacks and moduli](https://sites.math.washington.edu/~jarod/math582C.html);
+> [(University of Washington) Math 582C: Introduction to stacks and moduli](https://sites.math.washington.edu/~jarod/math582A.html);
