@@ -40,10 +40,11 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > [Allen Hatcher's Homepage](https://pi.math.cornell.edu/~hatcher/);
 > [J.S. Milne's Homepage](https://www.jmilne.org/math/);
 > [Ravi Vakil's Homepage](https://math.stanford.edu/~vakil/);
-> [Wenwei Li's Homepage](https://www.wwli.asia/index.php/en/);[李文威的主页(中文)](https://www.wwli.asia/index.php/zh/);
+> [Wenwei Li's Homepage](https://www.wwli.asia/index.php/en/); [李文威的主页(中文)](https://www.wwli.asia/index.php/zh/);
 > [USTC Math Resources](http://home.ustc.edu.cn/~yx3x/USTCdata.html);
 > [Jarod Alper's Homepage](https://sites.math.washington.edu/~jarod/);
 > [David Mumford's Homepage](https://www.dam.brown.edu/people/mumford/);
+> [The Rising Sea](http://therisingsea.org/);
 
 ## Other Links
 > [Kerodon](https://kerodon.net/);
