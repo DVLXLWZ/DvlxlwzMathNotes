@@ -53,6 +53,7 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > [The Automorphic Project](https://automorphic.jh.edu/);
 > [Graduate Seminar in Harvard. Geometric Representation theory](https://people.math.harvard.edu/~gaitsgde/grad_2009/);
 > [Derived Algebraic Geometry 2022](https://people.maths.ox.ac.uk/~joyce/DAG2022/index.html);
+> [Patrick Lei's Notes](http://www.math.columbia.edu/~plei/notes.html);
 
 ## Some Nice Homepages of Courses
 > [Algebraic Geometry II, Summer semester 2019 in Bonn](https://staff.fnwi.uva.nl/e.l.brakkee/AGII_SS2019/);
